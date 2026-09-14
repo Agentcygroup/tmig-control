@@ -1,13 +1,13 @@
 [[repo]]
 name = "team-tmig"
-visibility = "private"
+visibility = "public"
 default_branch = "main"
 required_checks = ["gate"]
 required_approvals = 1
 
 [[repo]]
 name = "tmig-full"
-visibility = "private"
+visibility = "public"
 default_branch = "main"
 required_checks = ["gate"]
 required_approvals = 1
